@@ -21,7 +21,7 @@ npm install -g vercel
 ## 1. Clonar Repositorio
 
 ```bash
-git clone https://github.com/kawsaymunay7-art/ton-miniapp-bolivia.git
+git clone https://github.com/PrometeoDEV/ton-miniapp-bolivia.git
 cd ton-miniapp-bolivia
 ```
 
@@ -302,4 +302,4 @@ vercel --token $VERCEL_TOKEN --prod
 ## Contacto
 
 - Telegram: @EVOcommunity
-- GitHub Issues: github.com/kawsaymunay7-art/ton-miniapp-bolivia/issues
+- GitHub Issues: github.com/PrometeoDEV/ton-miniapp-bolivia/issues
